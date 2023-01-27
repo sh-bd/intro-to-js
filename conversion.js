@@ -18,8 +18,8 @@ var totalPrice = price1 + price2;
 // convert string to int
 var price3 = '45';
 var price4 = parseInt(price3);
-// console.log(price4)
+// console.log(price4);
 
 var gpa = '4.18';
 var gpaNumber = parseFloat(gpa);
-console.log(gpaNumber)
+console.log(gpaNumber);
